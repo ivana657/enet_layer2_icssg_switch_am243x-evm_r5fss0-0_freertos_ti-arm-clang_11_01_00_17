@@ -1,0 +1,37 @@
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc_tmp] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x70080000, size 0x00043a80 bytes
+Found section 2 with adddress 0x700c3a80, size 0x00015d00 bytes
+Found section 3 with adddress 0x701278c0, size 0x00003340 bytes
+Found section 4 with adddress 0x7012d000, size 0x00000e30 bytes
+Found section 5 with adddress 0x7012de30, size 0x000004a0 bytes
+Found section 6 with adddress 0x7012e2d0, size 0x000003c0 bytes
+Found section 7 with adddress 0x7012e690, size 0x000001c0 bytes
+Found section 8 with adddress 0x7012e850, size 0x00000008 bytes
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc_tmp] Found 9 sections. 9 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+Merging section @ 0x700c3a80 of size 0x00015d00, with section @ 0x70080000 of size 0x00043a80
+Merging section @ 0x7012de30 of size 0x000004a0, with section @ 0x7012d000 of size 0x00000e30
+Merging section @ 0x7012e2d0 of size 0x000003c0, with section @ 0x7012d000 of size 0x000012d0
+Merging section @ 0x7012e690 of size 0x000001c0, with section @ 0x7012d000 of size 0x00001690
+Merging section @ 0x7012e850 of size 0x00000008, with section @ 0x7012d000 of size 0x00001850
+Writing section header  #0, adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x00000000, size 0x00000040 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section header  #1, adddress 0x70080000, size 0x00059780 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x70080000, size 0x00043a80 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x700c3a80, size 0x00015d00 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section header  #2, adddress 0x701278c0, size 0x00003340 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x701278c0, size 0x00003340 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section header  #3, adddress 0x7012d000, size 0x00001858 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x7012d000, size 0x00000e30 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x7012de30, size 0x000004a0 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x7012e2d0, size 0x000003c0 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x7012e690, size 0x000001c0 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+Writing section data with adddress 0x7012e850, size 0x00000008 bytes to file [C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc]
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc] Parsing file ...
+Found section 0 with adddress 0x00000000, size 0x00000040 bytes
+Found section 1 with adddress 0x70080000, size 0x00059780 bytes
+Found section 2 with adddress 0x701278c0, size 0x00003340 bytes
+Found section 3 with adddress 0x7012d000, size 0x00001858 bytes
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc] Found 4 sections. 4 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc_xip] Parsing file ...
+[C:/Users/NIKOLICI/workspace_v12/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17/Debug/enet_layer2_icssg_switch_am243x-evm_r5fss0-0_freertos_ti-arm-clang_11_01_00_17.rprc_xip] Found 0 sections. 0 are non-XIP sections, 0 are XIP sections, NON-XIP entryPoint = 0x00000000
